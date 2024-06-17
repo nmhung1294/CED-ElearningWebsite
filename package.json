@@ -9,7 +9,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "expressjs": "^1.0.1",
+    "react-slick": "^0.30.2",
+    "remixicon": "^4.3.0",
+    "slick-carousel": "^1.8.1",
     "socket.io": "^4.7.5"
   }
 }
