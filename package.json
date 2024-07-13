@@ -11,6 +11,7 @@
   "dependencies": {
     "bootstrap": "^5.3.3",
     "expressjs": "^1.0.1",
+    "mysql2": "^3.10.2",
     "react-slick": "^0.30.2",
     "remixicon": "^4.3.0",
     "slick-carousel": "^1.8.1",
